@@ -11,7 +11,7 @@ Here are some informatics to get you started:
 [![Google Scholar](https://img.shields.io/badge/Google-Scholar-orange?style=for-the-badge&logoWidth=0.1)]()
 -->
 
-#### About me
+### About me
 
 - 👨‍🔬 I’m currently working at IBM Research Lab, India. 
 - 🧑‍💻 I’m coding for all dephts of Artificial Intelligence models at industry reasearch lab. 
