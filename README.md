@@ -11,6 +11,19 @@ Here are some informatics to get you started:
 [![Google Scholar](https://img.shields.io/badge/Google-Scholar-orange?style=for-the-badge&logoWidth=0.1)]()
 -->
 
+#### About me
+
+- 👨‍🔬 I’m currently working at IBM Research Lab, India. 
+- 🧑‍💻 I’m coding for all dephts of Artificial Intelligence models at industry reasearch lab. 
+- 💻 I'm buidling entire stack of AI from problems logic to productions. 
+- 🧑‍🎓 These days I am learning Causality or Causal inferences techniques to undetstand and explain better DL/ML models.  
+- 💬 You can ask me about various trends in DL/ML or on building full stack DL models or life of research engineer. 
+- 📫 Feel to reach out to me on [Linkedin](https://in.linkedin.com/in/panwarnaveen9) and [GitHub](https://github.com/panwarnaveen9/panwarnaveen9). 
+- 👻 Fun Fact - Here is the link of most detailed tutorial I found on GIT - https://xkcd.com/1597
+
+
+#### Connect @
+
 <a href="https://twitter.com/panwarnaveen9" target="_blank">
   <img align="left" alt="akd's Twitter" width="85px" height="25px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
 </a>
@@ -22,23 +35,3 @@ Here are some informatics to get you started:
 <a href="https://scholar.google.co.in/citations?user=4HBr0nYAAAAJ&hl=en"  target="_blank">
   <img align="left" alt="akd's Github" width="95px"  height="25px" src="https://img.shields.io/badge/Google-Scholar-orange?style=for-the-badge" />
 </a>
-
-
-
-
-
-
-
-
-
-<br>
-
-#### About me
-
-- 👨‍🔬 I’m currently working at IBM Research Lab, India. 
-- 🧑‍💻 I’m coding for all dephts of Artificial Intelligence models at industry reasearch lab. 
-- 💻 I'm buidling entire stack of AI from problems logic to productions. 
-- 🧑‍🎓 These days I am learning Causality or Causal inferences techniques to undetstand and explain better DL/ML models.  
-- 💬 You can ask me about various trends in DL/ML or on building full stack DL models or life of research engineer. 
-- 📫 Feel to reach out to me on [Linkedin](https://in.linkedin.com/in/panwarnaveen9) and [GitHub](https://github.com/panwarnaveen9/panwarnaveen9). 
-- 👻 Fun Fact - Here is the link of most detailed tutorial I found on GIT - https://xkcd.com/1597
