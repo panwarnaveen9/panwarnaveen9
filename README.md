@@ -33,5 +33,5 @@ Here are some informatics to get you started:
 <a href="https://github.com/panwarnaveen9"  target="_blank">
   <img align="left" alt="akd's Github" width="70px"  height="25px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 <a href="https://scholar.google.co.in/citations?user=4HBr0nYAAAAJ&hl=en"  target="_blank">
-  <img align="left" alt="akd's Github" width="85px"  height="25px" src="https://img.shields.io/badge/Google-Scholar-orange?style=for-the-badge" />
+  <img align="left" alt="akd's Github" width="105px"  height="25px" src="https://img.shields.io/badge/Google-Scholar-blue?style=for-the-badge" />
 </a>
