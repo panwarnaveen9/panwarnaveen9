@@ -24,14 +24,11 @@ Here are some informatics to get you started:
 
 #### Connect @
 
-<a href="https://twitter.com/panwarnaveen9" target="_blank">
-  <img align="left" alt="akd's Twitter" width="70px" height="25px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
+<a href="https://twitter.com/panwarnaveen9" target="_blank"> <img align="left" alt="akd's Twitter" width="70px" height="25px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/panwarnaveen9/" target="_blank">
-  <img align="left" alt="akd's Linkdein" width="70px"  height="25px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/panwarnaveen9/" target="_blank"> <img align="left" alt="akd's Linkdein" width="70px"  height="25px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/panwarnaveen9"  target="_blank">
   <img align="left" alt="akd's Github" width="70px"  height="25px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
-<a href="https://scholar.google.co.in/citations?user=4HBr0nYAAAAJ&hl=en"  target="_blank">
-  <img align="left" alt="akd's Github" width="105px"  height="25px" src="https://img.shields.io/badge/Google-Scholar-blue?style=for-the-badge" />
+<a href="https://scholar.google.co.in/citations?user=4HBr0nYAAAAJ&hl=en"  target="_blank"> <img align="left" alt="akd's Github" width="105px"  height="25px" src="https://img.shields.io/badge/Google-Scholar-blue?style=for-the-badge" />
 </a>
