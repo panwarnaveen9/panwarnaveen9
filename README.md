@@ -6,6 +6,20 @@
 Here are some informatics to get you started:
 -->
 
+<a href="https://twitter.com/panwarnaveen9" target="_blank">
+  <img align="left" alt="akd's Twitter" width="80px" height="26px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/panwarnaveen9/" target="_blank">
+  <img align="left" alt="akd's Linkdein" width="80px"  height="26px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/panwarnaveen9"  target="_blank">
+  <img align="left" alt="akd's Github" width="80px"  height="26px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+</a>
+
+<br>
+
+#### About me
+
 - 👨‍🔬 I’m currently working at IBM Research Lab, India. 
 - 🧑‍💻 I’m coding for all dephts of Artificial Intelligence models at industry reasearch lab. 
 - 💻 I'm buidling entire stack of AI from problems logic to productions. 
@@ -13,3 +27,7 @@ Here are some informatics to get you started:
 - 💬 You can ask me about various trends in DL/ML or on building full stack DL models or life of research engineer. 
 - 📫 Feel to reach out to me on [Linkedin](https://in.linkedin.com/in/panwarnaveen9) and [GitHub](https://github.com/panwarnaveen9/panwarnaveen9). 
 - 👻 Fun Fact - Here is the link of most detailed tutorial I found on GIT - https://xkcd.com/1597
+
+#### Publications 
+
+- 
