@@ -1,6 +1,8 @@
-### Hello 👋, I'm Naveen Panwar
+
 
 <!--
+### Hello 👋, I'm Naveen Panwar
+
 **panwarnaveen9/panwarnaveen9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some informatics to get you started:
@@ -16,6 +18,11 @@ Here are some informatics to get you started:
 </a>
 <a href="https://scholar.google.co.in/citations?user=4HBr0nYAAAAJ&hl=en" target="_blank"><img align="left" alt="Naveen' Scholar" height="25px" src="https://img.shields.io/badge/Google-Scholar-blue?style=for-the-badge" /></a>
 -->
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/5768823/124394977-597cae00-dd1f-11eb-8fcf-6fa32644cc55.png" alt="Naveen"/>
+</div>
+
 
 #### About me
 
