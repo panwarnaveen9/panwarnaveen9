@@ -43,3 +43,6 @@ Here are some informatics to get you started:
 <a href="https://github.com/panwarnaveen9" target="_blank"><img align="left" alt="Naveen' Github" height="25px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://scholar.google.co.in/citations?user=4HBr0nYAAAAJ&hl=en" target="_blank"><img align="left" alt="Naveen' Scholar" height="25px" src="https://img.shields.io/badge/Google-Scholar%20-%231572B6.svg?&style=for-the-badge&logoColor=white" /></a>
 
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=panwarnaveen9" alt="https://github.com/panwarnaveen9" />
+</div>
